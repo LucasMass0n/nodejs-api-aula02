@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "Zed Matador",
+        "descricao": "Zed assassinou homens",
+        "autor": "riot games",
+        "anoPublicacao": 1932
+    },
+    {
+        "id": 2,
+        "titulo": "Zed Asasino",
+        "descricao": "Zed assassinou mulheres",
+        "autor": "rito gomes",
+        "anoPublicacao": 1933
+    },
+    {
+        "id": 3,
+        "titulo": "Zed O Gai",
+        "descricao": "Zed assassinou um pneu",
+        "autor": "rito games",
+        "anoPublicacao": 1934
+    },
+    {
+        "id": 4,
+        "titulo": "Zed X Yasuo",
+        "descricao": "Um amor proibido",
+        "autor": "riot gomes",
+        "anoPublicacao": 1935
+    }
+]
